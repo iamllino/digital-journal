@@ -1,6 +1,5 @@
 # Digital Journal
 This is a full stack React app for keeping notes
----
 
 ## Tools used in this project:
 1. React (CRA)
@@ -9,6 +8,5 @@ This is a full stack React app for keeping notes
 4. Express
 5. JWT
 
----
 Online Course Reference
 https://www.udemy.com/modern-react-front-to-back/
