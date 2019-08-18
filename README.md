@@ -1,4 +1,5 @@
 # Digital Journal
+This is a full stack React app for keeping notes
 ---
 
 ## Tools used in this project:
