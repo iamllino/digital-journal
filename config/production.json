@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://iamllino:7mJ2R2jjSWjCLRo8@iamllino-wgfx8.mongodb.net/notes?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
